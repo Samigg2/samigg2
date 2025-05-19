@@ -70,7 +70,7 @@ I'm a passionate and self-driven software engineer with a strong background in f
 
 ## 🌍 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/samigg](linkedin.com/in/samigg)
+- 💼 LinkedIn: [linkedin.com/in/samigg](https://www.linkedin.com/in/samigg)
 - 📧 Email: [samuelgebrekirstos93@gmail.com](mailto:samuelgebrekirstos93@gmail.com)
 
 ---
