@@ -1,6 +1,6 @@
- I'm Samuel Gebrekirstos
+# 👋 Hi, I'm Samuel Gebrekirstos
 
-💻 Full-Stack Developer | 🧠 AI & Machine Learning Enthusiast | 
+💻 Full-Stack Developer | 🧠 AI & Machine Learning Enthusiast |
 📍 Ethiopia | 🌐 Open to remote freelance and collaboration opportunities
 
 ---
@@ -13,9 +13,10 @@ I'm a passionate and self-driven software engineer with a strong background in f
 
 ## 🔨 Currently Working On
 
-🛒 **Habesha Libs** — an AI-integrated eCommerce platform for a local company (family business)
+🛒 **Habesha Libs** — an AI-integrated eCommerce platform for a local company (family business), featuring:
 
 
+---
 
 ## 💼 Skills & Tech Stack
 
@@ -29,6 +30,7 @@ I'm a passionate and self-driven software engineer with a strong background in f
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
@@ -36,8 +38,11 @@ I'm a passionate and self-driven software engineer with a strong background in f
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ### 🧠 AI & Tools
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -62,12 +67,6 @@ I'm a passionate and self-driven software engineer with a strong background in f
 
 ---
 
-## 📚 Featured Projects
-
-- 🔗 [Habesha Libs (in progress)](https://github.com/samigg2/habesha-libs) — AI-powered eCommerce app
-- 🔗 [Student Registration System](https://github.com/samigg2/student-registration) — Django app with SQLite & microservice approach
-
----
 
 ## 🌍 Let's Connect
 
